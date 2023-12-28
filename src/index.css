@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Nunito';
+    src: url("../public/NunitoSans-VariableFont_YTLC,opsz,wdth,wght.ttf")format('truetype');
+}
+@font-face {
+    font-family: 'NunitoItalic';
+    src: url("../public/NunitoSans-Italic-VariableFont_YTLC,opsz,wdth,wght.ttf")format('truetype');
+}
+.style-guide {
+    color: hsl(209, 23%, 22%);
+    color: hsl(207, 26%, 17%);
+    color: hsl(200, 15%, 8%);
+    color: hsl(0, 0%, 52%);
+    color: hsl(0, 0%, 98%);
+}
