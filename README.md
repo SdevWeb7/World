@@ -8,8 +8,8 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 
 ### Links
 
-- Solution URL: [Github - Code source](https://github.com/SdevWeb7/MultiStepForm)
-- Live Site URL: [Github - Pages](https://sdevweb7.github.io/MultiStepForm/)
+- Solution URL: [Github - Code source](https://github.com/SdevWeb7/World)
+- Live Site URL: [Github - Pages](https://sdevweb7.github.io/World/)
 
 
 ### Built with
@@ -17,6 +17,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- TailwindCSS
 - [React](https://reactjs.org/) - JS library
 
 
